@@ -10,7 +10,6 @@ Please complete this challenge and send a zip copy to:
 
 - Ogden Kent (ogkent@microsoft.com)
 - Eddie Kim (edki@microsoft.com)
-- Joey Dong (joeydong@microsoft.com)
 
 ## Calendar and Agenda Views
 
