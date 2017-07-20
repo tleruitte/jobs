@@ -11,6 +11,11 @@ Please complete this challenge and send a zip copy to:
 - Ogden Kent (ogkent@microsoft.com)
 - Eddie Kim (edki@microsoft.com)
 
+## Requirements
+
+- Please avoid using 3rd-party libraries: we want to see your code and problem solving. We do not expect you to handle all cases (calendar is complicated), so don't be afraid to cut some features if you need to. A comment explaining what you didn't have time to implement, and some of your thoughts, is always appreciated.
+- Please minimize your use of xibs/storyboards: we're interested to see how you organize your view hierarchy, lay out your views, and structure your project. We find an overreliance on xibs and storyboards often hides this.
+
 ## Calendar and Agenda Views
 
 ![](ios_01.png)
@@ -38,8 +43,6 @@ The Agenda view is a continuously scrolling view that allows the user to browse 
 - Make sure the expansion and contraction interaction between the Calendar view and Agenda view is fast and fluid
 
 - Feel free to cut out non-essential features if you are short on time
-
-- Use of open source dependencies is allowed but not necessary to complete the challenge
 
 - Use a static data set for your calendar events
 
