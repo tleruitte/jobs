@@ -8,8 +8,8 @@ The second part is one or two interviews over the phone or on site. These interv
 
 Please complete this challenge and send a zip copy to:
 
-- Ogden Kent (ogkent@microsoft.com)
-- Eddie Kim (edki@microsoft.com)
+- Ogden Kent (email: ogkent@microsoft.com, github: ogkent)
+- Eddie Kim (email: edki@microsoft.com, github: eddiekim)
 
 ## Requirements
 
