@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Create a new private GitHub repository and push your commits to it as you are completing the challenge.
+Create a new private GitHub or Bitbucket repository and push your commits to it as you are completing the challenge.
 
 Once you are ready, add someone from the Outlook Mobile team to the repository and send an email for us to review it.
 
