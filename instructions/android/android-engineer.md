@@ -42,6 +42,8 @@ Please include a way for the user to add new events to your dataset. Events can 
 
 ## Bonus: Networking Challenge
 
+![](android_04.png)
+
 Integrate an internet data source to retrieve the weather forecast for the user. This can be implemented for example by bucketing events for a day into morning / afternoon / evening sections. When weather information is available for a day, the weather can be populated in each time of day section. See the above screenshot as an example.
 
 Here are some weather data providers: [Forecast.io](https://developer.forecast.io/), [Wunderground](http://www.wunderground.com/weather/api/), and [Yahoo](https://developer.yahoo.com/weather/)
