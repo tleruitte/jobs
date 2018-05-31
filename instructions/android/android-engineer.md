@@ -22,7 +22,7 @@ Feel free to include any new features you can come up with.
 
 ![](android_calendar_view.png)
 
-The Calendar View sits above the Agenda view. It is a freely scrolling view that allows the user to browse days of the year. Tapping on a day in the calendar should update the scroll position of the Agenda view to match. The first visible day of the Agenda View determines which day is highlighted in the Calendar View.
+The Calendar View sits above the Agenda View. It is a freely scrolling view that allows the user to browse days of the year. Tapping on a day in the calendar should update the scroll position of the Agenda view to match. The first visible day of the Agenda View determines which day is highlighted in the Calendar View.
 
 ## Agenda View
 
